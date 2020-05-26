@@ -1,0 +1,3 @@
+题目A1|||text|||这是一个很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的题
+题目A2|||image|||C:\Users\lenovo\Desktop\抽题程序\data\images\图片1.png
+题目A3|||text|||hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
